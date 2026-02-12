@@ -1,0 +1,11 @@
+{
+    "name": "@kodnest/notifications",
+    "version": "0.1.0",
+    "private": true,
+    "main": "./src/index.ts",
+    "dependencies": {
+        "@kodnest/shared": "workspace:*",
+        "@kodnest/events": "workspace:*",
+        "@kodnest/db": "workspace:*"
+    }
+}
